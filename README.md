@@ -12,6 +12,7 @@ I'm Ahmed Ammar, a Software engineer living in Berlin, Germany. I've been in web
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedash95&layout=compact)
 
 # Side Projects
+- [Deep Symbols](https://github.com/ahmedash95/deep-symbols) a Neovim plugin provides a better alternative to LSP document symbols.
 - [Ratelimit](https://github.com/ahmedash95/ratelimit) is a Rate limiter written in Go that has been used in a high traffic distributed production service with up to +18k RPM.
 - [Blade autocomplete](https://github.com/ahmedash95/sublime-laravel-blade-autocomplete) is a sublime plugin to autocomplete @extends and @sections blade directives. and it has [+50k downloads](https://packagecontrol.io/packages/Laravel%20Blade%20AutoComplete)
 - [Leetcode Alfred workflow](https://github.com/ahmedash95/leetcode-alfred-plugin) an Alfred workflow to help query leetcode questions.
