@@ -5,6 +5,7 @@ I'm Ahmed Ammar, a Software engineer living in Berlin, Germany. I've been in web
 - [Laravel Valet](https://github.com/laravel/valet/pull/874)
 - [Laravel Excel](https://github.com/SpartnerNL/Laravel-Excel/pulls?q=is%3Apr+author%3Aahmedash95+archived%3Afalse+is%3Amerged+is%3Apublic+)
 - [Spatie](https://github.com/pulls?q=is%3Amerged+is%3Apr+user%3Aspatie+archived%3Afalse+author%3Aahmedash95)
+- [PHPStan](https://github.com/pulls?q=is%3Amerged+is%3Apr+user%3Aphpstan+archived%3Afalse+author%3Aahmedash95+)
 - and many other PRs.
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedash95&show_icons=true)
