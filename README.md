@@ -8,17 +8,18 @@ I'm Ahmed Ammar, a Software engineer living in Berlin, Germany. I've been in web
 - [PHPStan](https://github.com/pulls?q=is%3Amerged+is%3Apr+user%3Aphpstan+archived%3Afalse+author%3Aahmedash95+)
 - and many other PRs.
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedash95&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedash95&layout=compact)
-
 # Side Projects
 - [RapidSnap](https://apps.apple.com/app/rapidsnap/id1662117950?src=github.com) macos app to capture & beautify screenshots.
-- [Deep Symbols](https://github.com/ahmedash95/deep-symbols) a Neovim plugin provides a better alternative to LSP document symbols.
-- [Ratelimit](https://github.com/ahmedash95/ratelimit) is a Rate limiter written in Go that has been used in a high traffic distributed production service with up to +18k RPM.
 - [Blade autocomplete](https://github.com/ahmedash95/sublime-laravel-blade-autocomplete) is a sublime plugin to autocomplete @extends and @sections blade directives. and it has [+50k downloads](https://packagecontrol.io/packages/Laravel%20Blade%20AutoComplete)
 - [Leetcode Alfred workflow](https://github.com/ahmedash95/leetcode-alfred-plugin) an Alfred workflow to help query leetcode questions.
 - [JS JSON Parser](https://github.com/ahmedash95/js-json-parser) playing with the concepts of parsers and interpreters I built this little toy.
+
+# Packages
+- [Sentimento](https://github.com/ahmedash95/sentimento) Laravel package that provides sentiment analysis capabilities using OpenAI's GPT to easily analyze text-based data and gain insight into the underlying sentiment.
+- [Image Restoration](https://github.com/ahmedash95/image-restoration) Laravel uses Replicate's Image Restoration model to restore and enhance images.
+- [Laravel Facebook Poster](https://github.com/laravel-notification-channels/facebook-poster) This package makes it easy to post to Facebook using Laravel notification channels.
+- [Ratelimit](https://github.com/ahmedash95/ratelimit) is a Rate limiter written in Go that has been used in a high traffic distributed production service with up to +18k RPM.
+- [Deep Symbols](https://github.com/ahmedash95/deep-symbols) a Neovim plugin provides a better alternative to LSP document symbols.
 
 # Sharing knowledge
 - From time to time I love sharing my tech knowledge. so you can find my articles on [ahmedash95.github.io](https://ahmedash95.github.io)
