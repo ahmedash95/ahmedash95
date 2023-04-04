@@ -11,7 +11,7 @@ I'm Ahmed Ammar, a Software engineer living in Berlin, Germany. I've been in web
 # Side Projects
 - [Build Redis from scratch](https://www.build-redis-from-scratch.dev/) A series of articles on creating a Redis-compatible in-memory database using Golang.
 - [RapidSnap](https://apps.apple.com/app/rapidsnap/id1662117950?src=github.com) macos app to capture & beautify screenshots.
-- [Blade autocomplete](https://github.com/ahmedash95/sublime-laravel-blade-autocomplete) is a sublime plugin to autocomplete @extends and @sections blade directives. and it has [+50k downloads](https://packagecontrol.io/packages/Laravel%20Blade%20AutoComplete)
+- [Blade autocomplete](https://github.com/ahmedash95/sublime-laravel-blade-autocomplete) is a sublime plugin to autocomplete @extends and @sections blade directives. and it has [+70k downloads](https://packagecontrol.io/packages/Laravel%20Blade%20AutoComplete)
 - [Leetcode Alfred workflow](https://github.com/ahmedash95/leetcode-alfred-plugin) an Alfred workflow to help query leetcode questions.
 - [JS JSON Parser](https://github.com/ahmedash95/js-json-parser) playing with the concepts of parsers and interpreters I built this little toy.
 
