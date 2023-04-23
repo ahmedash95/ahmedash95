@@ -9,6 +9,7 @@ I'm Ahmed Ammar, a Software engineer living in Berlin, Germany. I've been in web
 - and many other PRs.
 
 # Side Projects
+- [Mersli](https://github.com/ahmedash95/mersli) A cli tool to generate a slide from mermaid diagrams.
 - [Build Redis from scratch](https://www.build-redis-from-scratch.dev/) A series of articles on creating a Redis-compatible in-memory database using Golang.
 - [RapidSnap](https://apps.apple.com/app/rapidsnap/id1662117950?src=github.com) macos app to capture & beautify screenshots.
 - [Blade autocomplete](https://github.com/ahmedash95/sublime-laravel-blade-autocomplete) is a sublime plugin to autocomplete @extends and @sections blade directives. and it has [+70k downloads](https://packagecontrol.io/packages/Laravel%20Blade%20AutoComplete)
