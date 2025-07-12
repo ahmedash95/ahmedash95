@@ -9,6 +9,7 @@ I'm Ahmed Ammar, a Software engineer living in Berlin, Germany. I've been in web
 - and many other PRs.
 
 # Side Projects
+- [InlineAi.app](https://inlineai.app) Transform your writing experience on macOS with intelligent AI assistance that appears exactly when and where you need it
 - [Mersli](https://github.com/ahmedash95/mersli) A cli tool to generate a slide from mermaid diagrams.
 - [Build Redis from scratch](https://www.build-redis-from-scratch.dev/) A series of articles on creating a Redis-compatible in-memory database using Golang.
 - [RapidSnap](https://apps.apple.com/app/rapidsnap/id1662117950?src=github.com) macos app to capture & beautify screenshots.
